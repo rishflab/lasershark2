@@ -9,10 +9,10 @@
 #include <math.h>
 
 
-using namespace cv;
+//using namespace cv;
 
 
-bool HoughFind(Mat src, Point* center);
+bool HoughFind(cv::Mat src, cv::Point* center);
 
 
 #endif

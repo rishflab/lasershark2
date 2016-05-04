@@ -137,10 +137,12 @@
     <ClCompile Include="hough.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="pointgrey.cpp" />
+    <ClCompile Include="serial.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="hough.h" />
     <ClInclude Include="pointgrey.h" />
+    <ClInclude Include="serial.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

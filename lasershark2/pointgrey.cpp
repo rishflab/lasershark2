@@ -32,6 +32,8 @@ void PointGrey::PrintCameraInfo(CameraInfo* pCamInfo)
 
 }
 
+
+
 void PointGrey::PrintError(Error error)
 {
 	error.PrintErrorTrace();

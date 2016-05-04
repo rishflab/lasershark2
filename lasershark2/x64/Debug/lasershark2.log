@@ -1,3 +1,25 @@
-﻿  hough.cpp
-  lasershark2.vcxproj -> C:\Users\rishf\onedrive\lasershark2\x64\Debug\lasershark2.exe
-  lasershark2.vcxproj -> C:\Users\rishf\onedrive\lasershark2\x64\Debug\lasershark2.pdb (Partial PDB)
+﻿  main.cpp
+  pointgrey.cpp
+pointgrey.cpp(98): warning C4458: declaration of 'convertedImage' hides class member
+  c:\users\rishf\onedrive\lasershark2\lasershark2\pointgrey.h(24): note: see declaration of 'PointGrey::convertedImage' (compiling source file pointgrey.cpp)
+pointgrey.cpp(100): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+pointgrey.cpp(100): warning C4189: 'rowBytes': local variable is initialized but not referenced
+pointgrey.cpp(142): warning C4458: declaration of 'convertedImage' hides class member
+  c:\users\rishf\onedrive\lasershark2\lasershark2\pointgrey.h(24): note: see declaration of 'PointGrey::convertedImage' (compiling source file pointgrey.cpp)
+pointgrey.cpp(153): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+pointgrey.cpp(153): warning C4189: 'rowBytes': local variable is initialized but not referenced
+main.cpp(33): warning C4100: 'pCallbackData': unreferenced formal parameter
+main.cpp(127): warning C4456: declaration of 'error' hides previous local declaration
+  main.cpp(94): note: see declaration of 'error'
+main.cpp(156): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+main.cpp(110): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+main.cpp(114): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+main.cpp(117): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+main.cpp(156): warning C4189: 'rowBytes': local variable is initialized but not referenced
+c:\users\rishf\onedrive\lasershark2\lasershark2\pointgrey.cpp(96): warning C4715: 'PointGrey::InitSingleCamera': not all control paths return a value
+c:\users\rishf\onedrive\lasershark2\lasershark2\main.cpp(204): warning C4702: unreachable code
+  lasershark2.vcxproj -> C:\Users\rishf\OneDrive\lasershark2\x64\Debug\lasershark2.exe
+  lasershark2.vcxproj -> C:\Users\rishf\OneDrive\lasershark2\x64\Debug\lasershark2.pdb (Partial PDB)
